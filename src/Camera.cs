@@ -9,7 +9,7 @@ namespace specular_lighting {
 
         float speed = 2;
         float xRotation, yRotation;
-        public Vector3 position = new Vector3(0,10,10),
+        public Vector3 position = new Vector3(-10,10,0),
                        lookEye = new Vector3(0,0, -1),
                        up = new Vector3(0,1,0);
 
